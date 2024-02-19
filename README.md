@@ -1,0 +1,2 @@
+# kubernetes-resource
+kubernetes-resource ~
